@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "path": "/",
+  "query": {},
+  "headers": {
+    "x-forwarded-for": "94.230.25.46",
+    "x-forwarded-proto": "https",
+    "x-forwarded-port": "443",
+    "host": "b5462f0a29ba8fd2aaf8d6989721bc8d.m.pipedream.net",
+    "x-amzn-trace-id": "Root=1-5fce7d12-6daf882b37125a722d69b4be",
+    "content-length": "50",
+    "accept": "application/json, text/plain, */*",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36",
+    "content-type": "application/json",
+    "origin": "https://pipedream.com",
+    "sec-fetch-site": "cross-site",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-dest": "empty",
+    "referer": "https://pipedream.com/sources/dc_8PupQzN",
+    "accept-language": "en,pl-PL;q=0.9,pl;q=0.8,en-US;q=0.7,fi;q=0.6",
+    "accept-encoding": "br, gzip, deflate"
+  },
+  "bodyRaw": "{\"message\":\"The force is strong with this one...\"}",
+  "body": {
+    "message": "The force is strong with this one..."
+  }
+}
